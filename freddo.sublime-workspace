@@ -1,0 +1,1100 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"master",
+				"masterDisplayID"
+			],
+			[
+				"socket",
+				"socketId"
+			],
+			[
+				"displa",
+				"displayClients"
+			],
+			[
+				"inter",
+				"interactionClients"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"conne",
+				"connectionFlag"
+			],
+			[
+				"conn",
+				"connectionFlag"
+			],
+			[
+				"touch",
+				"touchPointsArray"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"canvas",
+				"canvas_x"
+			],
+			[
+				"do",
+				"doTouchStart"
+			],
+			[
+				"ca",
+				"canvas_y"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"mes",
+				"messageSending"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"upl",
+				"uploadedBytes"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"beamout",
+				"beamoutSignalHandler"
+			],
+			[
+				"st",
+				"String"
+			],
+			[
+				"cate",
+				"categories"
+			],
+			[
+				"cont",
+				"contacts"
+			],
+			[
+				"contact",
+				"contactResponse"
+			],
+			[
+				"scr",
+				"script"
+			],
+			[
+				"lo",
+				"lorem	lorem - Medium paragraph"
+			],
+			[
+				"lor",
+				"lorem	lorem - Medium paragraph"
+			],
+			[
+				"data",
+				"data-toggle"
+			],
+			[
+				"bu",
+				"button"
+			],
+			[
+				"drop",
+				"dropdown-menu"
+			],
+			[
+				"in",
+				"input-append"
+			],
+			[
+				"inline",
+				"inlineCheckbox1"
+			],
+			[
+				"contr",
+				"control-group"
+			],
+			[
+				"contro",
+				"control-label"
+			],
+			[
+				"lorem",
+				"lorem	lorem - One sentence"
+			],
+			[
+				"hre",
+				"href"
+			],
+			[
+				"tb",
+				"tbfluid	Bootstrap fluid layout"
+			],
+			[
+				"libus",
+				"libusb"
+			],
+			[
+				"lib",
+				"libusb_device"
+			],
+			[
+				"print",
+				"printdev"
+			],
+			[
+				"sub",
+				"subtitle"
+			],
+			[
+				"search",
+				"searchmatching"
+			],
+			[
+				"sp",
+				"spritesheetCompleteHandler"
+			],
+			[
+				"sprite",
+				"spritesheetCompleteHandler"
+			],
+			[
+				"wheat",
+				"wheatritual_canvas"
+			],
+			[
+				"step1_text_",
+				"step1_text_eng"
+			],
+			[
+				"spri",
+				"spriteData"
+			],
+			[
+				"crea",
+				"createjsUtils"
+			],
+			[
+				"step",
+				"stepText"
+			],
+			[
+				"ste",
+				"stepText"
+			],
+			[
+				"bigCubeO",
+				"bigCubeOpen"
+			],
+			[
+				"Sprite",
+				"SpriteFrame"
+			],
+			[
+				"_",
+				"_centerRegPointBool"
+			],
+			[
+				"fr",
+				"frameName"
+			],
+			[
+				"Spri",
+				"SpriteSheet"
+			],
+			[
+				"sphere",
+				"sphereShadow"
+			],
+			[
+				"sphereSh",
+				"sphereShadow2"
+			],
+			[
+				"_stage",
+				"_stageXMid"
+			],
+			[
+				"stage",
+				"stageContainer"
+			],
+			[
+				"hdsm",
+				"hdsmCube"
+			],
+			[
+				"cre",
+				"createjs"
+			],
+			[
+				"bigCu",
+				"bigCubeHDSM"
+			],
+			[
+				"scale",
+				"scaleY"
+			],
+			[
+				"scal",
+				"scaleY"
+			],
+			[
+				"sca",
+				"scaleX"
+			],
+			[
+				"fr10Text",
+				"fr10Text"
+			],
+			[
+				"_sp",
+				"_spritesheet"
+			],
+			[
+				"fr10",
+				"fr10Subtext"
+			],
+			[
+				"fr4",
+				"fr4Subtext"
+			],
+			[
+				"fr3",
+				"fr3Subtext"
+			],
+			[
+				"fr2",
+				"fr2Subtext"
+			],
+			[
+				"fr1",
+				"fr1Text"
+			],
+			[
+				"open",
+				"opensourceIcon"
+			],
+			[
+				"Sp",
+				"SpriteFrame"
+			],
+			[
+				"_sprite",
+				"_spriteData"
+			],
+			[
+				"_spri",
+				"_spriteData"
+			],
+			[
+				"get",
+				"getWidthAndHeight"
+			],
+			[
+				"sprit",
+				"spritesheetJSON"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"anim",
+				"animationSet"
+			],
+			[
+				"_pos",
+				"_posYStep"
+			],
+			[
+				"tween",
+				"tweenZoomInRef"
+			],
+			[
+				"can",
+				"cancelAnimationSequence"
+			],
+			[
+				"manu",
+				"manualPlayBool"
+			],
+			[
+				"man",
+				"manualPlayBool"
+			],
+			[
+				"step1",
+				"step1"
+			],
+			[
+				"add",
+				"addListener"
+			],
+			[
+				"mouseOv",
+				"mouseOverArea"
+			],
+			[
+				"complete",
+				"completedHandler"
+			],
+			[
+				"_sta",
+				"_stageContainer"
+			],
+			[
+				"comp",
+				"_completedCount"
+			],
+			[
+				"twee",
+				"tweenAlphaInRef"
+			],
+			[
+				"al",
+				"alphaInCompleteHandler"
+			],
+			[
+				"set",
+				"stepBitmapAnim"
+			],
+			[
+				"goto",
+				"gotoAndPlay"
+			],
+			[
+				"begin",
+				"beginAnim"
+			],
+			[
+				"mouse",
+				"mouseOverArea"
+			],
+			[
+				"Bitmap",
+				"BitmapAnimation"
+			],
+			[
+				"reg",
+				"regY"
+			],
+			[
+				"stetex",
+				"stepTextFrameIndex"
+			],
+			[
+				"steptextfr",
+				"stepTextFrameIndex"
+			],
+			[
+				"common",
+				"commonObj"
+			],
+			[
+				"image",
+				"imageFileString"
+			],
+			[
+				"be",
+				"beginAnim"
+			],
+			[
+				"spr",
+				"spriteData"
+			],
+			[
+				"firs",
+				"firststep_000"
+			],
+			[
+				"Bitma",
+				"BitmapAnimation"
+			],
+			[
+				"spi",
+				"SpriteSheet"
+			],
+			[
+				"tick",
+				"tickHandler"
+			],
+			[
+				"even",
+				"EventDispatcher"
+			],
+			[
+				"_s",
+				"_spriteSheet"
+			],
+			[
+				"ext",
+				"extractFrame"
+			],
+			[
+				"w",
+				"wheatritual_canvas"
+			],
+			[
+				"loa",
+				"LoadQueue"
+			],
+			[
+				"_stagey",
+				"_stageYMid"
+			],
+			[
+				"_st",
+				"_stageXMid"
+			],
+			[
+				"prel",
+				"preloaderIcon"
+			],
+			[
+				"preload",
+				"preloadAnim"
+			],
+			[
+				"pre",
+				"preloadAnim"
+			],
+			[
+				"c",
+				"hdsmCube"
+			],
+			[
+				"small",
+				"smallCube1X"
+			],
+			[
+				"obj",
+				"obj2"
+			],
+			[
+				"si",
+				"signalHandler"
+			],
+			[
+				"Tire",
+				"TireType"
+			],
+			[
+				"_m",
+				"_milesTraveled"
+			],
+			[
+				"Sha",
+				"Shape3D"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/Jade.sublime-build",
+	"command_palette":
+	{
+		"height": 207.0,
+		"selected_items":
+		[
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"insert",
+				"Snippet: insert_ejs_tags"
+			],
+			[
+				"gist",
+				"Gist: Insert Gist"
+			],
+			[
+				"lint",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"open ",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"disa",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"comment",
+				"Toggle Comment"
+			],
+			[
+				"fetch",
+				"Fetch: File"
+			],
+			[
+				"update",
+				"Gist: Update File"
+			],
+			[
+				"open",
+				"Gist: Open Gist"
+			],
+			[
+				"gi",
+				"Gist: Insert Gist"
+			],
+			[
+				"indent",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"convert ",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"open bro",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"jade",
+				"HTML2Jade: Convert file"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"openin",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"task new",
+				"Tasks: New document"
+			],
+			[
+				"task",
+				"Tasks: New"
+			],
+			[
+				"gis",
+				"Gist: Insert Gist"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"sideba",
+				"View: Toggle Side Bar"
+			],
+			[
+				"packa",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"view",
+				"View: Toggle Side Bar"
+			],
+			[
+				"",
+				"Package Control: Disable Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pakc",
+				"Package Control: Install Package"
+			],
+			[
+				"cake",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/kennethmalley/index.html",
+		"/Users/kennethmalley/Library/Caches/TemporaryItems/Transmit/.tmp_kbvoho/swf_temp.html",
+		"/Users/kennethmalley/Library/Caches/TemporaryItems/Transmit/.tmp_rsnsxb/index.html",
+		"/Users/kennethmalley/Library/Caches/TemporaryItems/Transmit/.tmp_iyundh/index.html",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Web Related Projects/Tutorial Work/nodebegginner/helloworld.js",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Web Related Projects/Tutorial Work/nodejs_socketio/interaction.html",
+		"/Users/kennethmalley/Library/Caches/TemporaryItems/Transmit/.tmp_xizakb/index.html",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Web Related Projects/Tutorial Work/nodejs_socketio/css/display-style.css",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Web Related Projects/Tutorial Work/nodejs_socketio/css/interaction-style.css",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Web Related Projects/Tutorial Work/nodejs_socketio/interaction.jade",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Web Related Projects/Tutorial Work/nodejs_socketio/js/display_app.js",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Web Related Projects/Tutorial Work/nodejs_socketio/js/interaction_app.js",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Web Related Projects/Tutorial Work/nodejs_socketio/index.jade",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Web Related Projects/Tutorial Work/nodejs_socketio/pages/interaction/index.jade",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Web Related Projects/Tutorial Work/nodejs_socketio/app.js",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Web Related Projects/Tutorial Work/nodejs_socketio/pages/display/js/display_app.js",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Web Related Projects/Tutorial Work/nodejs_socketio/pages/display/index.jade",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Web Related Projects/Tutorial Work/nodejs_socketio/pages/interaction/js/interaction_app.js",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Web Related Projects/Tutorial Work/nodejs_socketio/pages/display/index.html",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Web Related Projects/Tutorial Work/nodejs_socketio/pages/interaction/index.html",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Web Related Projects/Tutorial Work/bootstrap/index_old_default.html",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Web Related Projects/Tutorial Work/nodejs/header.ejs",
+		"/Users/kennethmalley/Library/Application Support/Sublime Text 2/Packages/EJS/insert_ejs_tags.sublime-snippet",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Web Related Projects/Tutorial Work/bootstrap/index.html",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Web Related Projects/Tutorial Work/nodejs/http_request.js",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Web Related Projects/Tutorial Work/nodejs/libs/make_request.js",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Web Related Projects/Tutorial Work/nodejs/make_request.js",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Web Related Projects/Tutorial Work/nodejs/readFileExample.js",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Web Related Projects/Tutorial Work/nodejs/emitters.js",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Web Related Projects/Tutorial Work/nodejs/hello.js",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Web Related Projects/Tutorial Work/nodejs/readme.md",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Web Related Projects/Tutorial Work/nodejs/read_write.js",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Web Related Projects/Tutorial Work/nodejs/libs/custom_goodbye.js",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Web Related Projects/Tutorial Work/nodejs/libs/custom_hello.js",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Web Related Projects/Tutorial Work/nodejs/custom_module.js",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Web Related Projects/Tutorial Work/nodejs/readme_copy.md",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Web Related Projects/Tutorial Work/nodejs/streamdata.js",
+		"/Users/kennethmalley/Library/Caches/TemporaryItems/Transmit/.tmp_dsrxov/index.html",
+		"/Users/kennethmalley/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/kennethmalley/Library/Application Support/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Web Related Projects/Tutorial Work/nodejs/textfile.txt",
+		"/Users/kennethmalley/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/kennethmalley/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/kennethmalley/Library/Application Support/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/Users/kennethmalley/Library/Caches/TemporaryItems/Transmit/.tmp_zlqbzb/index.html",
+		"/Users/kennethmalley/Library/Caches/TemporaryItems/Transmit/.tmp_zrdpsn/index.html",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Flash Related Projects/FB 4.7 Projects/BeamBarrage/src/GlobalValObj.as",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Web Related Projects/Tutorial Work/bootstrap/js/holder.js",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Flash Related Projects/FB 4.7 Projects/BeamBarrage/src/states/MainState.as",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Flash Related Projects/FB 4.7 Projects/BeamBarrage/src/states/ShareState.as",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Flash Related Projects/FB 4.7 Projects/BeamBarrage/src/states/GameOverFormState.as",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Flash Related Projects/FB 4.7 Projects/BeamBarrage/src/BeamBarrage.as",
+		"/Users/kennethmalley/Library/Caches/TemporaryItems/Transmit/.tmp_jzqrto/index.html",
+		"/Users/kennethmalley/Library/Caches/TemporaryItems/Transmit/.tmp_rhgzyy/index.html",
+		"/Users/kennethmalley/Library/Caches/TemporaryItems/Transmit/.tmp_ixoplf/index.html",
+		"/Users/kennethmalley/Library/Caches/TemporaryItems/Transmit/.tmp_uixgdm/index.html",
+		"/Users/kennethmalley/Downloads/PageTransitions/index.html",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Flash Related Projects/Flash IDE Projects/Shaw/W13-0991_HD_Channel_Campaign/release/en_hd_mission_acc_300x250_as2_c01.html",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Flash Related Projects/Flash IDE Projects/Shaw/W13-0991_HD_Channel_Campaign/release/fr_hd_mission_acc_300x250_as2_c01.html",
+		"/Users/kennethmalley/Library/Caches/TemporaryItems/Transmit/.tmp_vfwjbn/index.html",
+		"/Users/kennethmalley/Library/Application Support/Sublime Text 2/Packages/EJS/EJS.tmLanguage",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Flash Related Projects/Flash IDE Projects/Rethink/videoplayer/release/index.html",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Flash Related Projects/Flash IDE Projects/Rethink/videoplayer/release/vidplayer_500x375.html",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Flash Related Projects/FB 4.7 Projects/BeamBarrage/src/Astroid.as",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Flash Related Projects/FB 4.7 Projects/BeamBarrage/src/Barricade.as",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Flash Related Projects/FB 4.7 Projects/BeamBarrage/src/BulletSprite.as",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Flash Related Projects/FB 4.7 Projects/BeamBarrage/src/Enemy.as",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Flash Related Projects/FB 4.7 Projects/BeamBarrage/src/Hero.as",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Flash Related Projects/FB 4.7 Projects/BeamBarrage/src/InstructionsDisplay.as",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Flash Related Projects/FB 4.7 Projects/BeamBarrage/src/ScoreDisplay.as",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Flash Related Projects/FB 4.7 Projects/BeamBarrage/src/TimeDisplay.as",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Flash Related Projects/Flash IDE Projects/Shaw/W13-0740 - shaw cottage/source/en_cottagemap_temp_300x250_as3_c01_preload/LIBRARY/mcs/mc&#058preloadImg.xml",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Flash Related Projects/Flash IDE Projects/Shaw/W13-0740 - shaw cottage/source/en_cottagemap_temp_300x250_as3_c01_preload/DOMDocument.xml",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Flash Related Projects/Flash IDE Projects/tests/sample/source/en_sample_300x250_as3_c01_preload/LIBRARY/mcs/loadBox.xml",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Flash Related Projects/Flash IDE Projects/tests/sample/source/en_sample_300x250_as3_c01/DOMDocument.xml",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Flash Related Projects/Flash IDE Projects/tests/sample/source/en_new_300x250_as2_c01/DOMDocument.xml",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Flash Related Projects/Flash IDE Projects/tests/sample/source/en_test_300x250_as2_c01/DOMDocument.xml",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Flash Related Projects/Flash IDE Projects/tests/sample/source/en_testingstill_300x250_as2_c01/DOMDocument.xml",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Flash Related Projects/Flash IDE Projects/tests/sample/source/en_test2_300x250_as2_c01/DOMDocument.xml",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Flash Related Projects/Flash IDE Projects/tests/sample/source/en_sdfefe_300x250_as2_c01/DOMDocument.xml",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Flash Related Projects/Flash IDE Projects/Avigilon/test/source/en_richmediatest_300x250_as3_c01/en_richmediatest_300x250_as3_c01.xfl",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Web Related Projects/Tutorial Work/canjs/canjs_todo.sublime-project",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Web Related Projects/Tutorial Work/canjs/contacts_manager/contacts.js",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Web Related Projects/Tutorial Work/canjs/todos/todos.html",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Web Related Projects/Tutorial Work/canjs/todos/todo.jade",
+		"/Users/kennethmalley/Library/Caches/TemporaryItems/Transmit/.tmp_gsnyla/index.html",
+		"/Users/kennethmalley/Library/Caches/TemporaryItems/Transmit/.tmp_zxjgvb/index.html",
+		"/Users/kennethmalley/Library/Caches/TemporaryItems/Transmit/.tmp_sbdrql/index.html",
+		"/Users/kennethmalley/Library/Caches/TemporaryItems/Transmit/.tmp_gmnxix/index.html",
+		"/Users/kennethmalley/Library/Caches/TemporaryItems/Transmit/.tmp_apjgax/index.html",
+		"/Users/kennethmalley/Library/Caches/TemporaryItems/Transmit/.tmp_pscwmu/index.html",
+		"/Users/kennethmalley/Library/Caches/TemporaryItems/Transmit/.tmp_sjvnko/index.html",
+		"/Users/kennethmalley/Library/Caches/TemporaryItems/Transmit/.tmp_iajflt/index.html",
+		"/Users/kennethmalley/Library/Caches/TemporaryItems/Transmit/.tmp_ijcque/index.html",
+		"/Users/kennethmalley/Library/Caches/TemporaryItems/Transmit/.tmp_kerlne/index.html",
+		"/Users/kennethmalley/Library/Caches/TemporaryItems/Transmit/.tmp_dwsmuh/index.html",
+		"/Users/kennethmalley/Library/Caches/TemporaryItems/Transmit/.tmp_wdutub/index.html",
+		"/Users/kennethmalley/Library/Caches/TemporaryItems/Transmit/.tmp_gzwgao/index.html",
+		"/Users/kennethmalley/Library/Caches/TemporaryItems/Transmit/.tmp_xttjbt/index.html",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Flash Related Projects/Flash IDE Projects/Avigilon/W13-0275 - May Banner rotation/W13-0275 - Avigilon - C - Level/index.html",
+		"/Users/kennethmalley/Library/Caches/TemporaryItems/Transmit/.tmp_otvufq/index.html",
+		"/Users/kennethmalley/Library/Caches/TemporaryItems/Transmit/.tmp_wptkil/index.html",
+		"/Users/kennethmalley/Library/Caches/TemporaryItems/Transmit/.tmp_mxpgdf/index.html",
+		"/Users/kennethmalley/Downloads/FlxMovieClip-Release/FlxMovieClip/src/DemoState.as",
+		"/Users/kennethmalley/Downloads/FlxMovieClip-Release/FlxMovieClip/src/Main.as",
+		"/Users/kennethmalley/Downloads/FlxMovieClip-Release/Installation & Usage.txt",
+		"/Users/kennethmalley/Downloads/FlxMovieClip-Release/FlxMovieClip.as",
+		"/Users/kennethmalley/Library/Caches/TemporaryItems/Transmit/.tmp_ackqct/index.html",
+		"/Users/kennethmalley/Library/Caches/TemporaryItems/Transmit/.tmp_ucekpd/index.html",
+		"/Users/kennethmalley/Dropbox/Actionscript/RethinkFlash/rethinkFlash/utils/startPistol/StartPistol.as",
+		"/Users/kennethmalley/Library/Caches/TemporaryItems/Transmit/.tmp_ozpggk/beam_barrage.html",
+		"/Users/kennethmalley/Library/Caches/TemporaryItems/Transmit/.tmp_sfpjcd/index.html",
+		"/Users/kennethmalley/Library/Caches/TemporaryItems/Transmit/.tmp_bjbwye/index.html",
+		"/Users/kennethmalley/Library/Caches/TemporaryItems/Transmit/.tmp_csrzbf/index.html",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Flash Related Projects/Flash IDE Projects/A&W/W13-0599 - Fri-day/temp/index.html",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Flash Related Projects/Flash IDE Projects/Dev server Template/index.html",
+		"/Users/kennethmalley/Library/Caches/TemporaryItems/Transmit/.tmp_aorjad/beam_barrage.html",
+		"/Users/kennethmalley/Library/Caches/TemporaryItems/Transmit/.tmp_rwqtst/swf_temp.html",
+		"/Users/kennethmalley/Dropbox/Actionscript/RethinkFlash/rethinkFlash/utils/startPistol/StartPistolDisplay.as",
+		"/Users/kennethmalley/Library/Caches/TemporaryItems/Transmit/.tmp_puutlt/index.html",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Flash Related Projects/Flash IDE Projects/Avigilon/W13-0275 - May Banner rotation/source/en_c_level_300x250_as3_c01/DOMDocument.xml",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Web Related Projects/Tutorial Work/bootstrap/js/myscript.js",
+		"/Users/kennethmalley/Library/Application Support/Sublime Text 2/Packages/User/Fetch.sublime-settings",
+		"/Users/kennethmalley/Downloads/imsky-holder-a1201ab/holder.js",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Web Related Projects/Tutorial Work/bootstrap/index.jade",
+		"/Users/kennethmalley/Documents/Rethink Workfolder/Web Related Projects/Tutorial Work/bootstrap/css/bootstrap.css",
+		"/Users/kennethmalley/Library/Application Support/Sublime Text 2/Packages/User/jade_href.sublime-snippet",
+		"/Users/kennethmalley/Library/Application Support/Sublime Text 2/Packages/User/Jade.sublime-settings"
+	],
+	"find":
+	{
+		"height": 49.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" Man",
+			"Cyclist",
+			"728x90",
+			"manoncar",
+			"Man on Car",
+			"300x250",
+			"Temp",
+			"400",
+			"makePoint",
+			"socket",
+			"5px",
+			"span",
+			"err",
+			"foo",
+			"slow",
+			"FRglish",
+			"En",
+			"EN",
+			"En",
+			"EN",
+			"En",
+			"EN",
+			"911",
+			"French",
+			"EN",
+			"misssion",
+			"en",
+			"?",
+			"<\\?=?-?",
+			"%",
+			"doub",
+			"./",
+			"video",
+			"http%3A%2F%2Fprototypes.rethinkcanada.ca%2Fother%2Fvideo-pixelation%2Fvideos%2Fexample.mp4",
+			"%",
+			"categories",
+			"?",
+			"include",
+			"eyeBuild",
+			"%",
+			"728x90",
+			"340x350",
+			"this.width",
+			"x",
+			"_H",
+			"160x600",
+			"468x60",
+			"300x250",
+			"as3",
+			"d_",
+			"300x250",
+			"970x250",
+			"728x90",
+			"bigbox",
+			"lb",
+			"wifi_",
+			"00x50",
+			"_v",
+			"728x90",
+			"Leaderboard",
+			"300x250",
+			"300x50",
+			"Bigbox",
+			"300x50",
+			"Temp",
+			"en",
+			"300x250",
+			"250x250",
+			"300x250",
+			"- ",
+			"160x600",
+			"728x90",
+			"300x250",
+			"en_fri_day_300x250",
+			"300x250",
+			"Temp",
+			"300",
+			"en_gatewayprize_300x250_as2_c01",
+			"add",
+			"scoreDisplay",
+			"private var ",
+			"300x250",
+			"en_c_level_300x250_as3_c01",
+			"Temp",
+			"a",
+			"holder",
+			"span3",
+			"h3 Thumbnail label\n						p Thumbnail caption...",
+			"badge",
+			"success",
+			"Prev",
+			"span1",
+			"span",
+			"Lorem",
+			"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus, error, quibusdam, earum reiciendis delectus accusamus aperiam tempora sunt sapiente fugit repellat numquam rem non facilis suscipit qui nam pariatur? Quo, excepturi, aliquid, dignissimos eos architecto illum nam odio omnis velit voluptatibus eum nemo repellendus porro aut suscipit exercitationem error sequi sit maiores ",
+			"en_fri_day__module",
+			"Sweet Potato Fries",
+			"Sweet Potato Fries v1.1",
+			"_v1_1",
+			"fr_728x90_v1_1",
+			"fr_300x250_v1_1",
+			"fr_160x600_v1_1",
+			"fr_home_module",
+			"en_728x90_v1_1",
+			"en_300x250_v1_1",
+			"en_160x600_v1_1",
+			"en_home_module",
+			"cmbLanguages",
+			"options",
+			"search",
+			"TilemapComponent",
+			"map",
+			");",
+			"468",
+			"chs_end_to_end_open",
+			"chs_end_to_end_scalable",
+			"chs_end_to_end",
+			"129",
+			"b8:27:eb:ec:f2:ef",
+			"classModule",
+			"post",
+			"main",
+			"main.rb",
+			"Fries",
+			"javascript:loadClassListFrame",
+			"Temp",
+			"en_deadbattery_300x250_as2_c01",
+			"/release/swfs/"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"interaction-style",
+				"css/interaction-style.css"
+			],
+			[
+				"mys",
+				"js/myscript.js"
+			],
+			[
+				"header",
+				"header.ejs"
+			],
+			[
+				"make",
+				"libs/make_request.js"
+			],
+			[
+				"m",
+				"readme_copy.md"
+			],
+			[
+				"read",
+				"readme_copy.md"
+			],
+			[
+				"cont",
+				"js/contacts.js"
+			],
+			[
+				"ind",
+				"index.jade"
+			],
+			[
+				"her",
+				"src/Hero.as"
+			],
+			[
+				"asse",
+				"src/assets/EmbedAssets.as"
+			],
+			[
+				"barr",
+				"src/Barricade.as"
+			],
+			[
+				"css",
+				"css/bootstrap.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 151.0,
+	"status_bar_visible": true
+}
